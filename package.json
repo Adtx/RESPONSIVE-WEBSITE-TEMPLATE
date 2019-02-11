@@ -1,0 +1,24 @@
+{
+  "name": "responsive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adtx/RESPONSIVE-WEBSITE-TEMPLATE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adtx/RESPONSIVE-WEBSITE-TEMPLATE/issues"
+  },
+  "homepage": "https://Adtx.github.io/RESPONSIVE-WEBSITE-TEMPLATE",
+  "dependencies": {
+    "gh-pages":"^2.0.1"
+  }
+}
