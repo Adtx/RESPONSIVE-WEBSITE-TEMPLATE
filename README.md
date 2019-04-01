@@ -2,7 +2,7 @@
 
 Desenvolvimento de um template HTML5+CSS3 que se adapta a vários tamanhos de ecran(responsive) para um website de uma agência de marketing fictícia.
 
-Disponível [aqui](https://adtx.github.io/RESPONSIVE-WEBSITE-TEMPLATE/).
+Disponível [AQUI](https://adtx.github.io/RESPONSIVE-WEBSITE-TEMPLATE/).
 
 * **Homepage vizualizada num computador**
 
